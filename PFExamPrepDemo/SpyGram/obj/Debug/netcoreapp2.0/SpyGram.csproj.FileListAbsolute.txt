@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\bin\Debug\netcoreapp2.0\SpyGram.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\bin\Debug\netcoreapp2.0\SpyGram.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\bin\Debug\netcoreapp2.0\SpyGram.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\bin\Debug\netcoreapp2.0\SpyGram.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\bin\Debug\netcoreapp2.0\SpyGram.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\obj\Debug\netcoreapp2.0\SpyGram.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\obj\Debug\netcoreapp2.0\SpyGram.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\obj\Debug\netcoreapp2.0\SpyGram.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\obj\Debug\netcoreapp2.0\SpyGram.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\obj\Debug\netcoreapp2.0\SpyGram.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\PFExamPrepDemo\SpyGram\obj\Debug\netcoreapp2.0\SpyGram.pdb
